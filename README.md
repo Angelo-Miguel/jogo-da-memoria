@@ -23,16 +23,16 @@ Um simples jogo da memória com emojis desenvolvido em JavaScript, HTML e CSS co
 - JavaScript
 
 ## Estrutura do Projeto
+```
 .\
 ├── index.html\
 └── assets/\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── css/\
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── reset.css       # Reset de estilos padrão\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  │  &nbsp;&nbsp;&nbsp;&nbsp; └── style.css       # Estilos personalizados do jogo\
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── scripts/\
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── engine.js       # Lógica do jogo da memória\
-
-
+    ├── css/\
+    │   ├── reset.css       # Reset de estilos padrão\
+    │   └── style.css       # Estilos personalizados do jogo\
+    └── scripts/\
+        └── engine.js       # Lógica do jogo da memória\
+```
 ## Créditos
 
 Desenvolvido por Angelo Miguel para o bootcamp da [DIO](https://www.dio.me/).
